@@ -1,6 +1,6 @@
 [package]
 name = "xinlan-clip"
-version = "0.1.0"
+version = "0.1.1"
 description = "Clipboard history for Linux — tray-resident, SQLite-backed, hotkey driven"
 authors = ["xinlan"]
 edition = "2021"
